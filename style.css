@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Fjalla One', Impact, Arial, sans-serif;
+ }
+ 
+ body {
+    background-color: #a7cdff;
+ }
+ 
+ .form {
+    background-color: #fae5a0;
+    padding: 80px;
+    width: 50%;
+    margin: 100px auto;
+    text-align: center;
+ }
+ 
+#ans {
+    font-size: 25px;
+    color: rgb(233, 128, 233);
+ }
+ [type="submit"] {
+    height: 35px;
+    margin: 20px;
+    width: 100px;
+    font-size: 15px;
+    border: none;
+    background-color: black;
+    color: white;
+ }
+ 
